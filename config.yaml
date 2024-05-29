@@ -8,14 +8,15 @@
 # important: slider indexes start at 0, regardless of which analog pins you're using!
 slider_mapping:
   0: discord.exe
-  1: forzahorizon5.exe
+  1: youtube.exe
   2: spotify.exe
   3:
-    - pathofexile_x64.exe
+    - forzahorizon5.exe
     - rocketleague.exe
   4: chrome.exe
 
 # set this to true if you want the controls inverted (i.e. top is 0%, bottom is 100%)
+# In addition you can  switch the gnd with the vcc.
 invert_sliders: false
 
 # settings for connecting to the arduino board
