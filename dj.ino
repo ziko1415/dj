@@ -1,3 +1,4 @@
+# You can have from 1-5 sliders 
 const int NUM_SLIDERS = 5;
 const int analogInputs[NUM_SLIDERS] = {A0, A1, A2, A3, A4};
 
