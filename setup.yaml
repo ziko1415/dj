@@ -12,7 +12,7 @@ slider_mapping:
   2: spotify.exe
   3:
     - forzahorizon5.exe
-    - rocketleague.exe
+    - valorant.exe
   4: chrome.exe
 
 # set this to true if you want the controls inverted (i.e. top is 0%, bottom is 100%)
