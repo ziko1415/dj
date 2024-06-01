@@ -23,7 +23,8 @@ Male to female jumper wires.
 
 Here is the schematic.
 
-https://github.com/ziko1415/dj-mixer/blob/main/Schematic.JPEG
+![image](https://github.com/ziko1415/dj-mixer/assets/122798915/1552cc69-39d3-4168-83dd-ac046d0651e6)
+
 
 
 
