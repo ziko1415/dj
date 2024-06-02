@@ -203,7 +203,7 @@ Please see [`docs/CONTRIBUTING.md`](./docs/CONTRIBUTING.md).
 
 ## License
 
-deej is released under the [MIT license](./LICENSE).
+DJVM is released under the [MIT license](./LICENSE).
 
 
 
