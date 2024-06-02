@@ -1,6 +1,6 @@
-# You can have from 1-5 sliders 
-const int NUM_SLIDERS = 5;
-const int analogInputs[NUM_SLIDERS] = {A0, A1, A2, A3, A4};
+// You can have from 1-6 sliders 
+const int NUM_SLIDERS = 6;
+const int analogInputs[NUM_SLIDERS] = {A0, A1, A2, A3, A4, A6};
 
 int analogSliderValues[NUM_SLIDERS];
 
